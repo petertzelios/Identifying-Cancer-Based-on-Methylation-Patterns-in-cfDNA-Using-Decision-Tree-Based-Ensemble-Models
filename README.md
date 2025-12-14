@@ -34,6 +34,8 @@ The Google Drive folder contains all data required to reproduce the results.
 
 ## Running the notebook
 All required Python packages are installed directly within the notebook.
-After downloading the processed data, update file paths as needed and run
-the notebook top-to-bottom.
+After downloading the processed data, update file paths as needed - primarily updating the DATA variable at the top of the notebook should be sufficent.
+Skipping to the section "New Load Data" allows you to skip to downloading the Feature matrices and corresponding labels for the binary classification.
+Simliarly "Multi-Class Data Load" allows you to skip to the same variables but for the multi-class classification.
+Sections prior to that are feature extration and preprocessing.
 
