@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (handled via Google Drive)
+data/
+*.csv
+*.tsv
+*.h5
+*.npz
+
+# Models / outputs
+*.pkl
+*.model
+
+# OS files
+.DS_Store
+
